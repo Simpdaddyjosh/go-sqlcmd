@@ -6,7 +6,7 @@ require (
 	github.com/alecthomas/kong v0.6.2-0.20220922001058-c62bf25854a0
 	github.com/billgraziano/dpapi v0.4.0
 	github.com/docker/distribution v2.8.1+incompatible
-	github.com/docker/docker v20.10.21+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/golang-sql/sqlexp v0.1.0
 	github.com/google/uuid v1.3.0
